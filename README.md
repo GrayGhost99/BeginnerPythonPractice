@@ -1,6 +1,6 @@
 # BeginnerPythonPractice
 
-## The repo is being creates as I follow along with the following course:
+## The repo is being created as I follow along with the following course:
 
 ### https://www.udemy.com/course/100-days-of-code/
 
