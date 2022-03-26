@@ -1,16 +1,12 @@
 # BeginnerPythonPractice
 
-## The repo is being created as I follow along with the following course:
+## The repo is being created as I work through the following course:
 
 ### https://www.udemy.com/course/100-days-of-code/
 
-## Dr. Angela Yu is an excellent instructor and I highly suggest getting her course
+## Dr. Angela Yu is an excellent instructor and I highly suggest getting her course.
 
-## The material in this repo is only similar to her instruction, not a copy.
-
-## It could be seen as examples of the material I learned through her course
-
-## but certainly not a replacement for her excellent explanations of the material!
+## The material in this repo is not meant to be a replacement or copy of her material, only a reference that could be used to see additional examples of the material she presents. The code here will not be word for word in comparison to what she teaches in the course, it will be the result of what I cam up with after following along, and creating something based on what I learned. Trust me, get her course and check back here if you want to see additional examples or what my take-away from the course was.
 
 ## This repo is a work-in-progress as I work through learning Python where I will include:
 
